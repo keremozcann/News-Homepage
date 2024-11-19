@@ -212,8 +212,6 @@ header {
   color: hsl(228, 45%, 44%);
 }
 
-/* Tablet = */
-
 @media only screen and (max-width: 1342px) {
   .container {
     max-width: 992px;
