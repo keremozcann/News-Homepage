@@ -336,7 +336,6 @@ header {
     font-size: 11px;
   }
   .bottom-list {
-    grid-template-columns: 1fr;
     gap: 10px;
   }
   .bottom-list .list-item {
